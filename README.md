@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ravicryp88
 - 👀 I’m interested in Web 3 programming
-- 🌱 I’m currently learning Html, CSS, Javascript, Reactjs, Solidity, Next.js, React Native.
+- 🌱 I’m currently learning Html, CSS, Javascript, Reactjs, Solidity, Next.js, React Native, Solana, Holochain.
 - 💞️ I’m looking to collaborate on Remote Work opportunities.
 - 📫 How to reach me ravicryp88@gmail.com
 
